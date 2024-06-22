@@ -57,7 +57,7 @@ Build a `Plotly Dash` application for users to perform interactive visual analyt
 - Add a callback function to render the `success-payload-scatter-chart` scatter plot
 
 ### Predictive Analysis (Classification) using Machine Learning
-Perform exploratory  Data Analysis and determine Training Labels
+Perform Exploratory Data Analysis and determine Training Labels
 - Create a column for the class
 - Standardize the data
 - Split into training data and test data
