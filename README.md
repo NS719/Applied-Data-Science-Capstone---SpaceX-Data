@@ -1,4 +1,4 @@
-# Data Science Capstone: SpaceX Launch Data Analysis
+# Data Science Capstone Project: SpaceX Launch Data Analysis
 
 ## Project Overview
 The commercial space age is here, companies are making space travel affordable for everyone. Perhaps the most successful is SpaceX. SpaceX’s accomplishments include:
@@ -16,8 +16,5 @@ This stage is quite large and expensive. Unlike other rocket providers, SpaceX's
 
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)
 
-Several examples of an unsuccessful landing are shown below.
-
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif)
-
 In this capstone project, you will take the role of a data scientist working for a new rocket company, Space Y that would like to compete with SpaceX. Your job is to determine the price of each launch by gathering information about Space X and creating dashboards for your team. Instead of using rocket science to determine if the first stage will land successfully, you will train a machine learning model and use public information to predict if SpaceX will reuse the first stage, thus determining the cost of a launch.
+This project is a graded capstone course [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) by IBM, final course in the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
